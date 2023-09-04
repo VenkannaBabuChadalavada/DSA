@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA_Main", "DSA_Main\DSA_Main.csproj", "{2BC0211B-11B2-4E55-8BB1-37F17C622995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{E6B4513A-8C63-494E-A2DF-1EA3F23751B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC0211B-11B2-4E55-8BB1-37F17C622995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC0211B-11B2-4E55-8BB1-37F17C622995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC0211B-11B2-4E55-8BB1-37F17C622995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC0211B-11B2-4E55-8BB1-37F17C622995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6B4513A-8C63-494E-A2DF-1EA3F23751B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B4513A-8C63-494E-A2DF-1EA3F23751B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B4513A-8C63-494E-A2DF-1EA3F23751B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B4513A-8C63-494E-A2DF-1EA3F23751B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C257889-172A-4358-9C6C-E9845F0DBBF7}
+	EndGlobalSection
+EndGlobal
